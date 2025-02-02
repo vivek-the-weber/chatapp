@@ -1,0 +1,12 @@
+.texting{
+    position:absolute;
+    bottom:10%;
+    left: 40%;
+}
+#id_all_chats{
+    max-width:50%;
+    max-height: 20px;
+}
+label{
+    display:none;
+}
